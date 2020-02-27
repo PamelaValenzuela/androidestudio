@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Estaeslapregunta"><u>Esta es la pregunta:</u>></string>
+    <string name="category">categoría</string>
+    <string name="difficult">dificultad</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="pregunta1">Esta es la pregunta</string>
+    <string name="mi_mensaje"><![CDATA[Este es un <u>Mamut chiquito</u>]]></string>
+</resources>
